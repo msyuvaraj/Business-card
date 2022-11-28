@@ -1,0 +1,19 @@
+body {
+    margin: 20px auto;
+    font-family: sans-serif,Verdana, Geneva, Tahoma, ;   
+}
+
+.wrap{
+    display: flex;
+    justify-content: space-around;
+    padding: 16px 0px 16px 16px;
+    background: #F0DBDB;
+    color: #3F0071;
+    border-bottom: 8px solid #3F0071;
+    text-align: center;
+    width: 600px;
+    margin: 0px auto;
+    
+    
+}
+
